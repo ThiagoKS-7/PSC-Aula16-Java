@@ -24,7 +24,7 @@ public class Main implements GlobalVals {
 
     }
     //mostra um menu na tela e pede uma opção pra o usuario. Se o
-// valor não estiver entre 0 e 3, repete o código
+    // valor não estiver entre 0 e 3, repete o código
     public static int mainMenu(PrintStream ps, Scanner sc, int opt) {
         ps.print("Menu Principal\n");
         ps.print("==============\n");
